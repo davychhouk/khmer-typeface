@@ -1,6 +1,6 @@
 {
   "name": "khmer-typeface",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Khmer Typeface.",
   "keywords": [
     "fonts",
@@ -9,8 +9,8 @@
     "khmer typeface"
   ],
   "main": "index.css",
-  "repository": "https://github.com/davychhouk/typeface-khmer.git",
-  "homepage": "https://github.com/davychhouk/typeface-khmer",
+  "repository": "https://github.com/davychhouk/khmer-typeface.git",
+  "homepage": "https://github.com/davychhouk/khmer-typeface",
   "author": "Davy CHHOUK <chhouk.davy@gmail.com>",
   "license": "MIT"
 }
