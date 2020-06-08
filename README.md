@@ -20,13 +20,15 @@ import 'khmer-typeface/index.css';
 
 ```css
 body {
-  font-family: 'Khmer-CN-Poipet';
+  font-family: 'Kantumruy';
 }
 ```
 
 ### Fonts
-- Kantumruy
-- Khmer-CN-Poipet
+- **Kantumruy**
+- **Khmer-CN-Poipet**
+
+Credit: **Kantumruy** by **Tep Sovichet**
 
 [npm]: https://img.shields.io/npm/v/khmer-typeface?style=flat-square
 [npm-url]: https://www.npmjs.com/package/khmer-typeface
