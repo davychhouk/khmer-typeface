@@ -24,5 +24,9 @@ body {
 }
 ```
 
+### Fonts
+- Kantumruy
+- Khmer-CN-Poipet
+
 [npm]: https://img.shields.io/npm/v/khmer-typeface?style=flat-square
 [npm-url]: https://www.npmjs.com/package/khmer-typeface
