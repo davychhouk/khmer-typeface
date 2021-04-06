@@ -26,7 +26,6 @@ body {
 
 ### Fonts
 - **Kantumruy**
-- **Khmer-CN-Poipet**
 
 Credit: **Kantumruy** by **Tep Sovichet**
 
