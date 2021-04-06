@@ -1,22 +1,29 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v7.0.29,
+* Autoprefixer: v9.7.6
+* Browsers: last 4 version
+*/
+
 @font-face {
-  font-family: 'Khmer-CN-Poipet';
-  src: url('./fonts/Khmer-CN-Poipet.ttf') format('truetype');
+  font-family: "Kantumruy";
+  src: url("./fonts/Kantumruy-Light.ttf") format("truetype");
+  font-weight: light;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Kantumruy";
+  src: url("./fonts/Kantumruy-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
   font-display: swap;
 }
 
 @font-face {
-  font-family: 'Kantumruy';
-  src: url('./fonts/Kantumruy-Regular.ttf') format('truetype');
-  font-weight: normal;
-  font-style: normal;
-  font-display: swap;
-}
-
-@font-face {
-  font-family: 'Kantumruy';
-  src: url('./fonts/Kantumruy-Bold.ttf') format('truetype');
+  font-family: "Kantumruy";
+  src: url("./fonts/Kantumruy-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
   font-display: swap;
